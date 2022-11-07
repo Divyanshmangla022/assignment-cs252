@@ -74,6 +74,7 @@ will then create a separate thread that will generate the
 Fibonacci numbers, placing the sequence in a buffer shared
 by the threads. When the thread finishes execution,
 the parent thread will output the sequence generated
-by the child thread. Then the parent thread shall wait
+by the child thread.Because the parent thread cannot begin outputting the Fibonacci sequence until the child thread finishes, this will require having the parent thread wait for the child thread to finish.
+Then the parent thread shall wait
 until the completion of the fibonacci thread and then
 output the fibonacci series.
