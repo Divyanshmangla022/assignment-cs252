@@ -32,7 +32,6 @@ all positive integers will eventually reach 1.
 The graph of this function are described as:-
 
 
-
 ### OS Process concept
 
 The starting number will be provided from the command line.
@@ -78,3 +77,9 @@ by the child thread.Because the parent thread cannot begin outputting the Fibona
 Then the parent thread shall wait
 until the completion of the fibonacci thread and then
 output the fibonacci series.
+
+
+CREDITS: 
+MANOJANA KP
+3RD YEAR BTECH(COMPUTER SCIENCE)
+
