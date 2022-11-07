@@ -29,6 +29,8 @@ all positive integers will eventually reach 1.
 ```
 35, 106, 53, 160, 80, 40, 20, 10, 5, 16, 8, 4, 2, 1
 ```
+The graph of this function are described as:-
+
 
 
 ### OS Process concept
