@@ -19,7 +19,7 @@ Consider the following operation on an arbitrary positive integer:
 
 In short apply the following function repeatedly:
 
-![n = { n/2 if n is even and 3n + 1 if n is odd](/sequence/collatz.svg)
+![n = { n/2 if n is even and 3n + 1 if n is odd](/Collatz sequence/collatz a.svg)
 
 
 The conjecture states that when this algorithm is continually applied,
