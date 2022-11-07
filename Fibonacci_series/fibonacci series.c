@@ -47,7 +47,7 @@ int main(int argc, char* argv[]) {
 	/*
 	int pthread_create(thread_id, attr, start_routine, arg);
 	thread_id : stores the ID of the new thread in the buffer pointed to by this pointer
-	attr : attributes for creations of thread
+	attr : attributes for creations of thread //detached state, scheduling policy, stack address
 	start_routine : function to be run
 	arg  : argument passed to the function
 	*/
