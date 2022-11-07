@@ -1,12 +1,12 @@
-# assignment-os
+# assignment-cs252
 
-fibonacci series and collatz sequence using operating system concepts
+fibonacci series and collatz sequence using the operating system concepts
 
 
 ## Collatz sequence
 
 C program using the fork() system call that generates Collatz sequence
-in the child process
+in the child process. The starting number will be provided from the command line.
 
 
 ### Collatz conjecture
