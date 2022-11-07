@@ -1,4 +1,4 @@
-# assignment-cs252
+# Assignment-cs252 Operating system
 
 fibonacci series and collatz sequence using the operating system concepts
 
